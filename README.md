@@ -2,6 +2,8 @@
 
 By Mateusz Gimziński
 
+Final project of Harvard's CS50 Introduction to databases with SQL. 
+
 Video overview: https://youtu.be/IzbGiEdzmcA
 
 ## Scope
